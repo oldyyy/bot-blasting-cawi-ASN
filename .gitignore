@@ -1,0 +1,11 @@
+# Allowlist: abaikan SEMUA, lalu izinkan hanya file kode & dokumentasi.
+# Data responden, log, screenshot, rekap, config.json, dan profil Chrome (cookie login) tidak pernah ikut.
+*
+!.gitignore
+!README.md
+!requirements.txt
+!config.example.json
+!broadcast_cawi.py
+!rekap.py
+!catat_manual.py
+!buka_chrome.bat

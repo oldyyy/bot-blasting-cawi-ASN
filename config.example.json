@@ -1,0 +1,5 @@
+{
+  "data_url": "https://fasih-sm.bps.go.id/app/surveys/<ID_SURVEI>/<ID_PERIODE>/data?page=1&perPage=10",
+  "xlsx_path": "../data/assignment_kontak.xlsx",
+  "sheet": "Daftar Assignment OPEN"
+}
